@@ -1,4 +1,6 @@
 ## RectangleBuilderGreaterArea
+Count the distinct rectangle sizes, of area greater than or equal to X, that can be built out of a given set of segments.
+___
 
 Halfling Woolly Proudhoof is an eminent sheep herder. He wants to build a pen (enclosure) for his new flock of sheep. The pen will be rectangular and built from exactly four pieces of fence (so, the pieces of fence forming the opposite sides of the pen must be of equal length). Woolly can choose these pieces out of N pieces of fence that are stored in his barn. To hold the entire flock, the area of the pen must be greater than or equal to a given threshold X.
 
